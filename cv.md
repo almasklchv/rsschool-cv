@@ -1,7 +1,7 @@
 # **Almas Kilichov**
 > ## <sub>_Android Developer_</sub> 
 # **Brief description about me**
-## <sub> My goal is to get a job as a junior in EPAM, or at least in another company. My strengths are my determination, the ability not to give up. I like to learn new information, at the moment I'm studying the front-end at the 1st stage in RS SCHOOL. </sub>
+> ## <sub> My goal is to get a job as a junior in EPAM, or at least in another company. My strengths are my determination, the ability not to give up. I like to learn new information, at the moment I'm studying the front-end at the 1st stage in RS SCHOOL. </sub>
 ---
 ## **Personal**
 ###### Birthday - 15 January 2006
